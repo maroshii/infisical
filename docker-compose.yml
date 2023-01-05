@@ -59,7 +59,6 @@ services:
 
 volumes:
   mongo-data:
-    driver: local
 
 networks:
   infisical:
